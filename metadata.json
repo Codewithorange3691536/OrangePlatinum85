@@ -1,0 +1,6 @@
+{
+  "name": "KINETIC NOIR | High-End Athletic Apparel & Community",
+  "description": "Official flagship portal for KINETIC NOIR high-end performance apparel, elite training curriculum, coach mentorship, and transformation community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
